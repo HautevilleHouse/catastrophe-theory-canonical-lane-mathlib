@@ -1,0 +1,2 @@
+import CatastropheTheoryCanonicalLaneLean.GateLemmas
+import CatastropheTheoryCanonicalLaneLean.FinalTheorem

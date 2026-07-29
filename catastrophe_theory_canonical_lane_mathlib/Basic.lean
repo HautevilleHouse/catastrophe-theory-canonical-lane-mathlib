@@ -1,0 +1,2 @@
+import catastrophe_theory_canonical_lane_mathlib.GateLemmas
+import catastrophe_theory_canonical_lane_mathlib.FinalTheorem
